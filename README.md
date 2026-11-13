@@ -30,6 +30,20 @@
 
 > **「保持好奇，持续构建。」** &nbsp; *Stay curious. Build something meaningful.*
 
+### ✨ 贡献与代码分析
+
+<a href="https://github.com/zhongxinxuhk?tab=overview"><img src="assets/stats/calendar.svg" width="100%" alt="最近 365 天贡献日历、贡献总量与活跃天数" /></a>
+
+<img src="assets/stats/monthly.svg" width="100%" alt="按月汇总的 GitHub 贡献趋势" />
+
+<img src="assets/stats/activity.svg" width="100%" alt="公开提交、Pull Request 与 Issue 数量" />
+
+<img src="assets/stats/languages.svg" width="100%" alt="公开非 Fork 且未归档仓库的主要语言分布，按仓库数量统计" />
+
+<img src="assets/stats/repositories.svg" width="100%" alt="按公开提交搜索结果统计的活跃仓库前五名" />
+
+<sub>图表每日自动更新，更新时间显示在图内。贡献日历采用 GitHub 贡献规则，活动数量采用公开搜索结果。语言按仓库主要语言计数。首尾月份按实际覆盖天数汇总。<a href="assets/stats/data.json">查看数据与统计口径</a> · <a href="https://github.com/zhongxinxuhk/zhongxinxuhk/actions/workflows/profile-stats.yml">更新状态</a></sub>
+
 <img src="assets/projects.svg" width="100%" alt="02 · 项目探索 / Project Quests" />
 
 <table>
