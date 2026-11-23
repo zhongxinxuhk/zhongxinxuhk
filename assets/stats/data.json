@@ -1,10 +1,9 @@
 {
   "user": "zhongxinxuhk",
-  "updated": "2026-11-22 02:18 UTC",
-  "start": "2025-11-23",
-  "end": "2026-11-22",
+  "updated": "2026-11-23 02:52 UTC",
+  "start": "2025-11-24",
+  "end": "2026-11-23",
   "days": {
-    "2025-11-23": 0,
     "2025-11-24": 0,
     "2025-11-25": 0,
     "2025-11-26": 0,
@@ -368,33 +367,36 @@
     "2026-11-19": 38,
     "2026-11-20": 101,
     "2026-11-21": 104,
-    "2026-11-22": 0
+    "2026-11-22": 0,
+    "2026-11-23": 0
   },
   "activity": {
-    "Commits": 254,
-    "Pull requests": 4,
-    "Issues": 5
+    "Commits": 428,
+    "Pull requests": 8,
+    "Issues": 6
   },
   "languages": {
     "Python": 5,
     "TypeScript": 2,
+    "Rust": 1,
     "Go": 1
   },
-  "language_repos": 8,
+  "language_repos": 9,
   "unclassified_repos": 0,
   "active_repositories": {
     "zhongxinxuhk/VEXNAR": 246,
+    "zhongxinxuhk/cythsec-network-netfols": 174,
     "zhongxinxuhk/OpenHotelManagementSystem": 4,
     "zhongxinxuhk/zhongxinxuhk": 3,
     "zhongxinxuhk/CognitiveBoundary": 1
   },
-  "commit_sample": 254,
-  "commit_total": 254,
+  "commit_sample": 428,
+  "commit_total": 428,
   "sources": [
     "https://github.com/users/zhongxinxuhk/contributions",
     "https://api.github.com/users/zhongxinxuhk/repos?type=owner&per_page=100",
-    "https://api.github.com/search/commits?q=author%3Azhongxinxuhk%20committer-date%3A2025-11-23..2026-11-22%20is%3Apublic",
-    "https://api.github.com/search/issues?q=author%3Azhongxinxuhk%20created%3A2025-11-23..2026-11-22%20is%3Apublic"
+    "https://api.github.com/search/commits?q=author%3Azhongxinxuhk%20committer-date%3A2025-11-24..2026-11-23%20is%3Apublic",
+    "https://api.github.com/search/issues?q=author%3Azhongxinxuhk%20created%3A2025-11-24..2026-11-23%20is%3Apublic"
   ],
   "definitions": {
     "calendar": "Latest 365 days returned by GitHub's public contribution calendar; GitHub contribution rules apply.",
