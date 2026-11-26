@@ -1,10 +1,9 @@
 {
   "user": "zhongxinxuhk",
-  "updated": "2026-11-25 04:55 UTC",
-  "start": "2025-11-26",
-  "end": "2026-11-25",
+  "updated": "2026-11-26 04:11 UTC",
+  "start": "2025-11-27",
+  "end": "2026-11-26",
   "days": {
-    "2025-11-26": 0,
     "2025-11-27": 0,
     "2025-11-28": 0,
     "2025-11-29": 0,
@@ -368,7 +367,8 @@
     "2026-11-22": 117,
     "2026-11-23": 70,
     "2026-11-24": 12,
-    "2026-11-25": 0
+    "2026-11-25": 0,
+    "2026-11-26": 0
   },
   "activity": {
     "Commits": 886,
@@ -394,8 +394,8 @@
   "sources": [
     "https://github.com/users/zhongxinxuhk/contributions",
     "https://api.github.com/users/zhongxinxuhk/repos?type=owner&per_page=100",
-    "https://api.github.com/search/commits?q=author%3Azhongxinxuhk%20committer-date%3A2025-11-26..2026-11-25%20is%3Apublic",
-    "https://api.github.com/search/issues?q=author%3Azhongxinxuhk%20created%3A2025-11-26..2026-11-25%20is%3Apublic"
+    "https://api.github.com/search/commits?q=author%3Azhongxinxuhk%20committer-date%3A2025-11-27..2026-11-26%20is%3Apublic",
+    "https://api.github.com/search/issues?q=author%3Azhongxinxuhk%20created%3A2025-11-27..2026-11-26%20is%3Apublic"
   ],
   "definitions": {
     "calendar": "Latest 365 days returned by GitHub's public contribution calendar; GitHub contribution rules apply.",
